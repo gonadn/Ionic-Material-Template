@@ -1,0 +1,24 @@
+{
+  "name": "Ionic-Material-Template",
+  "authors": [
+    "Adnan Riaz Gondal <gonadn@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "www/lib"
+  ],
+  "dependencies": {
+    "ion-md-input": "^1.0.4",
+    "ionic-material": "^0.4.2",
+    "ionic": "*"
+  }
+}
