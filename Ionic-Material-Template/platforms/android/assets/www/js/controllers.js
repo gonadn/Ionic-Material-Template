@@ -173,6 +173,4 @@ angular.module('starter.controllers', [])
         selector: '.animate-fade-slide-in .item'
     });
 
-})
-
-;
+});
